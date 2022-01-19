@@ -43,3 +43,12 @@ contract SolidityLoops {
         data = varData;
     }
 }
+
+// **************************//
+// ********* Loops **********//
+// **************************//
+/*
+    if
+    if else
+    if else if
+*/
