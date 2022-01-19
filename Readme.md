@@ -5,3 +5,10 @@
 ### Sections
 
 - [Solidity tutorial](./step03_solidity_tutorial)
+
+### Class 29 Videos
+
+- [English YouTube]()
+- [English Facebook]()
+- [Urdu YouTube]()
+- [Urdu Facebook]()
