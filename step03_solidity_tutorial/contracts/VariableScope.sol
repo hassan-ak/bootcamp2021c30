@@ -45,3 +45,15 @@ contract VariableScopeUpdated is VariableScope {
         return iData;
     }
 }
+
+// **************************//
+// ******** Operator ********//
+// **************************//
+/*
+    Arithmetic Operators --- +, -, *, /, %, ++, --
+    Comparison Operators --- ==, !=, >, <, >=, <=
+    Logical Operators --- &&, ||, !
+    Bitwise Operators --- &, |, ^, ~, <<, >>, >>>
+    Assignment Operators --- =, +=, -=, *=, /=, %=, <<=, >>=, >>>=, &=, |=, ^=
+    Conditional Operator ?=
+*/
