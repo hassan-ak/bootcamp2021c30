@@ -8,7 +8,7 @@
 
 ### Class 29 Videos
 
-- [English YouTube]()
-- [English Facebook]()
-- [Urdu YouTube]()
-- [Urdu Facebook]()
+- [English YouTube](https://www.youtube.com/watch?v=mXuY7Sp5jmw&ab_channel=CertifiedUnicornDeveloper)
+- [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/7151001034909886?_rdc=1&_rdr)
+- [Urdu YouTube](https://www.youtube.com/watch?v=nhlchB7Mij4&ab_channel=CertifiedUnicornDeveloperinUrdu)
+- [Urdu Facebook](https://www.facebook.com/Ai.SirQasim/videos/2126325780860897?_rdc=1&_rdr)
