@@ -6,7 +6,7 @@
 
 - [Solidity tutorial](./step03_solidity_tutorial)
 
-### Class 29 Videos
+### Class 30 Videos
 
 - [English YouTube](https://www.youtube.com/watch?v=mXuY7Sp5jmw&ab_channel=CertifiedUnicornDeveloper)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/7151001034909886?_rdc=1&_rdr)
