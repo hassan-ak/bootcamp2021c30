@@ -10,5 +10,6 @@
 
 - [English YouTube](https://www.youtube.com/watch?v=mXuY7Sp5jmw&ab_channel=CertifiedUnicornDeveloper)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/7151001034909886?_rdc=1&_rdr)
-- [Urdu YouTube](https://www.youtube.com/watch?v=nhlchB7Mij4&ab_channel=CertifiedUnicornDeveloperinUrdu)
+- [Urdu YouTube P1](https://www.youtube.com/watch?v=nhlchB7Mij4&ab_channel=CertifiedUnicornDeveloperinUrdu)
+- [Urdu YouTube P2](https://www.youtube.com/watch?v=J3C9KGG61pA&t=4608s)
 - [Urdu Facebook](https://www.facebook.com/Ai.SirQasim/videos/2126325780860897?_rdc=1&_rdr)
