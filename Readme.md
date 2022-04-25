@@ -1,12 +1,20 @@
-# bootcamp2021c30 - Introduction to Decentralized Computing - Ethereum, Smart Contracts, DeFi, NFT, and DAO
+# bootcamp2021c30 - Introduction to Decentralized Computing: Ethereum, Smart Contracts, DeFi, NFT, and DAO - Solidity - Solidity Tutorial 02
 
-## Solidity Tutorial Part 02
+## Solidity Tutorial 02
+
+- Tutorial
+  - variable scope
+  - operators
+  - loops
+  - decision making
+  - strings
+  - arrays
 
 ### Sections
 
 - [Solidity tutorial](./step03_solidity_tutorial)
 
-### Class 30 Videos
+### Class 30 Videos: Solidity Tutorial 02
 
 - [English YouTube](https://www.youtube.com/watch?v=mXuY7Sp5jmw&ab_channel=CertifiedUnicornDeveloper)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/7151001034909886?_rdc=1&_rdr)
