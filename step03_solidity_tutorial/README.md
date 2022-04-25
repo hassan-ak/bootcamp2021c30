@@ -1,5 +1,9 @@
 # Solidity Tutorial
 
+## Reading Material
+
+- [Solidity Tutorial](https://www.tutorialspoint.com/solidity/index.htm)
+
 ## Steps to code
 
 1. Create new directory using `mkdir step03_solidity_tutorial`
